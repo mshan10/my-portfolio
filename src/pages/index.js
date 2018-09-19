@@ -52,7 +52,7 @@ class Index extends React.Component {
                   <h2>Matthew Shan</h2>
                 </header>
                 <p>
-                    Hi, my name is Matt Shan and I am a second year computer science major at the University of Notre Dame. I am a highly motivated student with a passion for software engineering and full-stack web development. Suring the summer, I worked as a full-stack web developer intern at Covur where I helped build new features for the Covur web application leverageing frameworks like AngularJS and NodeJS. I hope to use the skills I have learned to create innovative software that brings a meaningful change to those in my community.
+                    Hi, my name is Matt Shan and I am a second year computer science major at the University of Notre Dame. I am a highly motivated student with a passion for software engineering and full-stack web development. During the summer, I worked as a full-stack web developer intern at Covur where I helped build new features for the Covur web application leverageing frameworks like AngularJS and NodeJS. I hope to use the skills I have learned to create innovative software that brings a meaningful change to those in my community.
                 </p>
                 <ul className="actions">
                   <li><a className="button" href="Matt-Shan-Resume.pdf">Resume<span className="icon fa-download download"/></a></li>
